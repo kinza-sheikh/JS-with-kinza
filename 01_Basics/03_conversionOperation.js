@@ -18,7 +18,7 @@
 let isLoggedIn = 5
 
 let booleanIsLogged = Boolean(isLoggedIn)
-console.log(booleanIsLogged);
+//console.log(booleanIsLogged);
 
 //1 =>true, 0 =>false
 //""=> false
@@ -29,8 +29,38 @@ console.log(booleanIsLogged);
 let someNumber = 44
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+/*----------------------operations-----------------*/
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+
+// console.log(2 +2);
+// console.log(2 -2);
+// console.log(2 *2);
+// console.log(2 **3);
+// console.log(2 /2);
+// console.log(2 %2);
+
+let str1 = "hello"
+let str2 = " kinza"
+let str3 = str1 + str2
+console.log(str3);
+
+console.log(1 + "2");
+console.log("1" + 2);
+console.log("1" + "2" + 2);
+console.log(1 + 2 + "3");
+
+
+
+
+
+
 
 
 
