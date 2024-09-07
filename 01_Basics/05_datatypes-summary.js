@@ -44,3 +44,16 @@ const bigNumber = 765556267812681672n
 
 console.log(typeof bigNumber);
 console.log(typeof outsideTemp);
+
+
+
+
+
+
+
+
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack (PREMITIVE) memory:DATA CHNG IN A COPY                            heap (NON-PREMITIVE) memory:DATA CHNGE IN ORIGINAL
